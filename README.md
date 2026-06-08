@@ -181,9 +181,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - nour.zawawi@gmail.com
 
-Project Link: [https://github.com/yourusername/hybrid-arima-lstm](https://github.com/yourusername/hybrid-arima-lstm)
+Project Link: 
 
 ## 🙏 Acknowledgements
 
